@@ -1,0 +1,5 @@
+# 대용량 원본 — 볼트 git·GitHub 어느 쪽에도 올리지 않는다 (Zenodo 원출처 참조)
+*.pickle
+*.pkl
+*.zip
+*.pdf
