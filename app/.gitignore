@@ -1,0 +1,5 @@
+# API 키 — 절대 커밋 금지
+.streamlit/
+.env
+# 데모 실행 중 생기는 상태 파일
+failed_queue.json

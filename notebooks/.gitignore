@@ -3,3 +3,6 @@
 *.pkl
 *.zip
 *.pdf
+# 전량 재현(03) 중간 산출물 — 임베딩 1GB급
+full_repro_out/
+*.npy
